@@ -1,11 +1,11 @@
 
 # Problem Statement:
-This project is all about help senior citizen to listen audio
-of PDFs instead or reading them.
+This project is all about help the senior citizen to listen
+audio of PDFs instead or reading them.
 Most of the elderly people of many country have problem of 
-seeing less or unable to read text that whose font size is 
+seeing less or they unable to read text whose font size is 
 less.Many elder people in the western countries lives alone 
-at countrysides and their children work in cities,So they 
+at country sides and their children work in cities,So they 
 get bored whole day .They can read books but it causes 
 stress as they have to concentrate on texts while reading,
 and many of elderly people are having poor eyesight.So they 
